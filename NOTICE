@@ -1,0 +1,13 @@
+iPhone PC Transfer
+
+This software is distributed under the MIT License. It uses third-party Python
+packages governed by their respective licenses.
+
+This application is intended for local network file transfer between a Windows PC
+and mobile devices through a browser interface. It is not an Apple AirDrop
+implementation and does not use Apple AirDrop, AWDL or proprietary Apple
+protocols.
+
+Apple, iPhone and Safari are trademarks of Apple Inc. Windows is a trademark of
+Microsoft Corporation. All trademarks remain the property of their respective
+owners.

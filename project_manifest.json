@@ -1,0 +1,33 @@
+{
+    "name": "iPhone PC Transfer",
+    "version": "1.0.0",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2026 Rubén Navarrete Millán",
+    "author": "Rubén Navarrete Millán",
+    "platform": "Windows",
+    "runtime": "Python 3.10+",
+    "default_server_name": "PC de Usuario",
+    "languages": [
+        "Spanish",
+        "English",
+        "Chinese",
+        "Hindi",
+        "Arabic",
+        "French"
+    ],
+    "github_ready": true,
+    "do_not_commit": [
+        "runtime transfer files",
+        "configuration JSON files containing passwords",
+        "compiled executables except as release assets"
+    ],
+    "browser_i18n": true,
+    "browser_languages": [
+        "Spanish",
+        "English",
+        "Chinese",
+        "Hindi",
+        "Arabic",
+        "French"
+    ]
+}

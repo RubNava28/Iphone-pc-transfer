@@ -1,0 +1,19 @@
+[project]
+name = "iphone-pc-transfer"
+version = "1.0.0"
+description = "Local Wi-Fi file transfer application between Windows PC and iPhone"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Rubén Navarrete Millán" }]
+dependencies = [
+    "flask>=3.0.0",
+    "customtkinter>=5.2.2",
+    "pillow>=10.0.0",
+    "qrcode>=7.4.2",
+    "tkinterdnd2>=0.3.0",
+    "win10toast>=0.9"
+]
+
+[project.scripts]
+iphone-pc-transfer = "iphone_pc_transfer.main:main"
